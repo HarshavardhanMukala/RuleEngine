@@ -1,4 +1,4 @@
-# This Project contains the Implementatino of the below rules using the Drool RuleEngine in SpringFramework.
+# This Project contains the Implementation of the below rules using the Drool RuleEngine in SpringFramework.
 
 we have gathered the following set of rules which need to be managed by the new system.
 
