@@ -25,6 +25,7 @@ public class EmailGenerator {
 	}
 
 	public void GenerateEmail() {
+		//Email generation code goes here
 		System.out.println("Email Sent to Owner");
 	}
 }

@@ -13,10 +13,10 @@ import lombok.NoArgsConstructor;
 @Data
 public class PackingSlip {
 
-	private PartyDetails party;
+	private static PartyDetails party;
 	private List<String> items;
 
-	public Enum getParty() {
+	public static Enum getParty() {
 		return party;
 	}
 
